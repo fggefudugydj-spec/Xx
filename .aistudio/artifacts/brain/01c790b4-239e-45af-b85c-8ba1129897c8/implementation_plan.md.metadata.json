@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for rebuilding and fixing LeviLab Launcher for Android 13 ARM64 targeting Minecraft Bedrock Preview 1.26.70.24, covering strict version/edition discovery, ELF64/Split-APK/Cache integrity, main-thread official Intent launch, and bilingual launcher utilities.",
+  "updatedAt":  "2026-11-19T20:36:11.572963667Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
